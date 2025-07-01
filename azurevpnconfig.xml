@@ -30,6 +30,9 @@
       <hash>DF3C24F9BFD666761B268073FE06D1CC8D4F82A4</hash>
       <issuer i:nil="true" />
     </Cert>
+  <dnssuffixes>
+    <dnssuffix>cssdomain.local</dnssuffix>
+  </dnssuffixes>
     <serversecret>987bcda6951a3606117aaccaeacfdd628da1c8952233dac642a3ccd7aa03caeba56f8b9a32ccb150e264766188a5d025fbcab7d466edabf6dac0e97e9a584604fd48ab0ef218f021a313c95cfc36373f25637a10f7c0fd820dd46b5faeb1cdf0d5025e29c6abd9ed25ac600a1c12f32c316bb30e4f269b076036447ad0209fbd4835293033e3e5015e467fae32efd85eb6fa97072c111a61ecad74cbd7c22edeea1e1a9e59f4c53670c1f7998d2bb6de07de6af25b639d9c3ca1e25799173deacd824710ef9e26ddacd1baf748d1266feaafa4fdea04f3e1f221a8c8ac86c56585baadd08def087e3903762f40de4d6e13f1022026f339574f209f2a9be0c71f</serversecret>
     <type>cert</type>
   </servervalidation>
